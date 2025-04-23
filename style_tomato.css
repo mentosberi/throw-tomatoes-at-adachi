@@ -1,0 +1,15 @@
+#adachi{
+    margin-left: 30%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+#tomato{ 
+    position:absolute;
+    width: 150px;
+    height: 150px;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    display: none;
+}
